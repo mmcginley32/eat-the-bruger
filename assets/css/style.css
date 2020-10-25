@@ -1,0 +1,21 @@
+
+li {
+    padding: 15px;
+    margin: 15px;
+    font-style: normal;
+    list-style: none;
+    
+  }
+
+  .center {
+    text-align: center;
+}
+
+
+  .btn-primary {
+    border-radius: 10px;
+}
+  
+  .form-group {
+    margin-bottom: 35px;
+  }
